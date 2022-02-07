@@ -1,2 +1,2 @@
 # AWS-Demo
-My AWS Journey to a job! 
+These are learning projects focused on creating AWS resources.
